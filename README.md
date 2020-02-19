@@ -4,12 +4,14 @@ Alessandro Bravetti, Maria L. Daza-Torres, Hugo Flores-Arguedas and Michael Beta
 The available files are:
 
 - integrators.py
+
     Implements all the algorithms tested: classical momentum (CM),
     Nesterov’s  accelerated  gradient (NAG), relativistic gradient descent (RGD)
     and contact relativistic gradient descent (CRGD).
     (see `requirements.txt` for a compatible  set of dependencies).
 
 - examples.py
+
     Contains all the examples presented in the paper.
 
 The following files, contain the code to generate the figures used in the paper,
