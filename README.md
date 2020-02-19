@@ -19,6 +19,7 @@ The following files, contain the code to generate the figures used in the paper,
 - plot_ex2.py
 - plot_ex3.py
 - plot_ex4.py
+
 Here, we use the tuned parameters found in the params folder.
 
 
