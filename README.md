@@ -27,9 +27,7 @@ The following files contain the tuning process for the params used in the paper,
 - Tuning_ex3.py
 - Tuning_ex4.py
 
-- The folder params
-
-Contain the tuned parameters used to generate the figures of the article. These files were obtained
+The params folder contains the tuned parameters used to generate the figures of the article. These files were obtained
 for running:
 
 - Tuning_ex1.py
